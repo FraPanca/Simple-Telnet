@@ -8,9 +8,9 @@ Sviluppo di una shell remota.
 
 ==== ISTRUZIONI ====
 - Compilazione:
-  - $ gcc server.c -o server					            <- directory server
-	- $ gcc client_datagram.c -o client_datagram		<- directory client
-	- $ gcc client_stream.c -o client_stream			  <- directory client
+	- $ gcc server.c -o server					            <- directory server
+	- $ gcc client_datagram.c -o client_datagram			<- directory client
+	- $ gcc client_stream.c -o client_stream				<- directory client
 
 - Esecuzione
   - $ ./server serverSocketPort
