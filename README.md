@@ -2,7 +2,7 @@
 Sviluppo di una shell remota.
 
 ==== COMPONENTI ====
- - il Client effettua un'operazione e può ricevere il codice di ritorno o l'output del stdout della shell remota
+ - il Client effettua un'operazione e può ricevere il codice di ritorno (client datagram) o l'output del stdout della shell remota (client stream)
  - il Server come shell remota
 
 
