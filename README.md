@@ -4,7 +4,7 @@
 Sviluppo di una shell remota.
 
 ### Componenti
-- Il Client effettua un'operazione e può ricevere il codice di ritorno (client datagram) o l'output del stdout della shell remota (client stream)
+- Il Client richiede comandi e può ricevere il codice di ritorno (client datagram) o l'output del stdout della shell remota (client stream)
 - Il Server funge da shell remota
 
 ### Istruzioni
@@ -24,7 +24,7 @@ Sviluppo di una shell remota.
 Development of a remote shell.
 
 ### Components
-- The Client performs operations and can receive the return code (datagram client) or the stdout output from the remote shell (stream client)
+- The Client requests commands and can receive the return code (datagram client) or the stdout output from the remote shell (stream client)
 - The Server acts as a remote shell
 
 ### Instructions
